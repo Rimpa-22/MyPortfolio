@@ -319,7 +319,8 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/image6.jpeg);
+        background-image: url(images/pic1.jpg);
+        height: 620px;
     }
     .header-text{
         margin-top: 100%;
@@ -375,12 +376,16 @@ nav .fa-solid{
     .copyright{
         font-size: 13px;
     }
+    #about img{
+    height: 500px;
+}
 }
 #msg{
     color: #61b752;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
